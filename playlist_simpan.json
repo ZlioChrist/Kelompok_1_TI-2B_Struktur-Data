@@ -1,0 +1,121 @@
+[
+    {
+        "title": "Tak Ada Ujungnya",
+        "artist": "Rony Parulian",
+        "genre": "Pop",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2735d2e53fbcef5d8d00bed2d8d",
+        "audio_url": "assets/audio/Tak Ada Ujungnya.mp3"
+    },
+    {
+        "title": "Sial",
+        "artist": "Mahalini",
+        "genre": "Pop",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2732f7bb02cb4b74bd7c2406428",
+        "audio_url": "assets/audio/Sial.mp3"
+    },
+    {
+        "title": "Tak ingin Usai",
+        "artist": "Keisya Levronka",
+        "genre": "Pop",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2738fa475b368164ab5eebe1a8d",
+        "audio_url": "assets/audio/Tak Ingin Usai.mp3"
+    },
+    {
+        "title": "Mangu",
+        "artist": "Fourtwnty, Charita Utami",
+        "genre": "Pop",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273fecb2b49d97ed68528fbf44a",
+        "audio_url": "assets/audio/Mangu.mp3"
+    },
+    {
+        "title": "Tampar",
+        "artist": "Juicy Luicy",
+        "genre": "Pop",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273895ef71f3b84221075ac06f5",
+        "audio_url": "assets/audio/Tampar.mp3"
+    },
+    {
+        "title": "K.",
+        "artist": "Cigarret After Sex",
+        "genre": "Pop",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27312b69bf576f5e80291f75161",
+        "audio_url": "assets/audio/K..mp3"
+    },
+    {
+        "title": "Vampire",
+        "artist": "Olivia Rodrigo",
+        "genre": "Pop",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d",
+        "audio_url": "assets/audio/Vampire.mp3"
+    },
+    {
+        "title": "Skyfall",
+        "artist": "Adele",
+        "genre": "Pop",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2732737be35cc5245eef495be90",
+        "audio_url": "assets/audio/Skyfall.mp3"
+    },
+    {
+        "title": "Die With a Smile",
+        "artist": "Lady Gaga & Bruno Mars",
+        "genre": "Pop",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27382ea2e9e1858aa012c57cd45",
+        "audio_url": "assets/audio/Die With a Smile.mp3"
+    },
+    {
+        "title": "Supernatural",
+        "artist": "Ariana Grande",
+        "genre": "Pop",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2735ab3c842fde848df7a4ee6d9",
+        "audio_url": "assets/audio/Supernatural.mp3"
+    },
+    {
+        "title": "Fall in You",
+        "artist": "Ha Sung Woon",
+        "genre": "K-Pop",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273ea49909223d39b63e10760ac",
+        "audio_url": "assets/audio/Fall in You.mp3"
+    },
+    {
+        "title": "Another Day",
+        "artist": "Monday Kiz & Punch",
+        "genre": "K-Pop",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273b1aab446c712722137d3847c",
+        "audio_url": "assets/audio/Another Day.mp3"
+    },
+    {
+        "title": "Everytime",
+        "artist": "Chen & Punch",
+        "genre": "K-Pop",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27352b4a39a68f595936012712e",
+        "audio_url": "assets/audio/Everytime.mp3"
+    },
+    {
+        "title": "Sudden Shower",
+        "artist": "ECLIPSE",
+        "genre": "K-Pop",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273921b098ead845a5456339f8a",
+        "audio_url": "assets/audio/Sudden Shower.mp3"
+    },
+    {
+        "title": "Beautiful",
+        "artist": "Crush",
+        "genre": "K-Pop",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273bc051de00f5d0631b8df4bcd",
+        "audio_url": "assets/audio/Beautiful.mp3"
+    },
+    {
+        "title": "Usseewa",
+        "artist": "Ado",
+        "genre": "J-Pop",
+        "cover": "https://i.scdn.co/image/ab67616d0000b27364381fb5ba549f149ae74560",
+        "audio_url": "assets/audio/Usseewa.mp3"
+    },
+    {
+        "title": "\u8272\u892a\u305b\u306a\u3044\u77b3",
+        "artist": "Alisa Takigawa",
+        "genre": "J-Pop",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273ae6d6bf7bafe3f7a65718277",
+        "audio_url": "assets/audio/\u8272\u892a\u305b\u306a\u3044\u77b3.mp3"
+    }
+]
